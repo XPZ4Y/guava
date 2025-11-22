@@ -1,6 +1,6 @@
 # Guava: Google Core Libraries for Java
 
-[![GitHub Release](https://img.shields.io/github/v/release/google/guava)](https://github.com/google/guava/releases/latest)
+[![GitHub Release](https://img.shields.io/github/v/Shawnpeter578/clubapp/releases/tag/v0.0.1)](https://github.com/google/guava/releases/latest)
 [![CI](https://github.com/google/guava/actions/workflows/ci.yml/badge.svg)](https://github.com/google/guava/actions/workflows/ci.yml)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/7197/badge)](https://www.bestpractices.dev/projects/7197)
 
